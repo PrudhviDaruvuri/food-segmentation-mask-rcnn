@@ -11,7 +11,7 @@ This repository implements a new project I am starting now, where the goal is to
 - [FastAPI](https://fastapi.tiangolo.com): to build a web application to try the fine tuned model.
 
 
-# Install
+# Install and Run
 1. Clone this repository
 ```bash
 git clone https://github.com/renatoviolin/food-segmentation-mask-rcnn.git
@@ -36,7 +36,7 @@ http://localhost:8000/
 <img src=img/demo.gif>
 
 
-## To-do
+# To-do list
 - use other dataset to increase the kinds of food.
 - improve accuracy of detection and segmentation.
 - try another models (Deeplab-V3, FCN)
